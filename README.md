@@ -1,2 +1,2 @@
 # radicle_cryptovancho
-radicle_poject_cryptovancho
+radicle_cryptovancho
